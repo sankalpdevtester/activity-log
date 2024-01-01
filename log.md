@@ -1,1 +1,2 @@
 - 2024-01-01 10:50: docs: add learning notes
+- 2024-01-01 23:21: docs: daily progress note
