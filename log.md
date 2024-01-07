@@ -30,3 +30,4 @@
 - 2024-01-06 21:48: chore: activity update
 - 2024-01-07 23:11: docs: update progress tracker
 - 2024-01-07 18:18: chore: daily checkpoint
+- 2024-01-07 22:43: docs: add learning notes
