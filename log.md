@@ -34,3 +34,4 @@
 - 2024-01-08 11:49: chore: sync notes
 - 2024-01-08 20:02: docs: progress update
 - 2024-01-08 11:01: docs: update progress tracker
+- 2024-01-08 20:57: docs: add learning notes
