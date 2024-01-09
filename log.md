@@ -35,3 +35,4 @@
 - 2024-01-08 20:02: docs: progress update
 - 2024-01-08 11:01: docs: update progress tracker
 - 2024-01-08 20:57: docs: add learning notes
+- 2024-01-09 15:19: docs: daily standup notes
