@@ -126,3 +126,4 @@
 - 2024-01-30 16:38: docs: update progress tracker
 - 2024-01-30 22:12: docs: update progress tracker
 - 2024-01-31 16:36: docs: progress update
+- 2024-01-31 21:58: docs: add learning notes
