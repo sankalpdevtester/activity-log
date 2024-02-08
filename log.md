@@ -157,3 +157,4 @@
 - 2024-02-08 18:36: docs: daily progress note
 - 2024-02-08 19:27: chore: update activity log
 - 2024-02-08 09:58: chore: activity update
+- 2024-02-08 20:38: docs: add learning notes
