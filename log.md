@@ -257,3 +257,4 @@
 - 2024-03-02 20:54: chore: log today's work
 - 2024-03-02 23:11: docs: update progress tracker
 - 2024-03-02 15:17: docs: add learning notes
+- 2024-03-03 09:46: docs: add learning notes
