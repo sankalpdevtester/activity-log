@@ -728,3 +728,4 @@
 - 2024-06-30 17:15: docs: update progress tracker
 - 2024-06-30 23:24: docs: progress update
 - 2024-06-30 20:43: docs: add learning notes
+- 2024-07-01 19:03: docs: add learning notes
