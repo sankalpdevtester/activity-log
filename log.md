@@ -815,3 +815,4 @@
 - 2024-07-20 10:29: docs: update progress tracker
 - 2024-07-21 09:55: chore: log today's work
 - 2024-07-21 14:56: chore: sync notes
+- 2024-07-21 10:23: docs: add learning notes
