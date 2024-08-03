@@ -873,3 +873,4 @@
 - 2024-08-02 19:07: docs: add learning notes
 - 2024-08-02 09:43: docs: add learning notes
 - 2024-08-03 15:06: docs: progress update
+- 2024-08-03 12:39: docs: add learning notes
