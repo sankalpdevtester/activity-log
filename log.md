@@ -974,3 +974,4 @@
 - 2024-08-30 16:24: chore: log today's work
 - 2024-08-30 19:03: docs: update progress tracker
 - 2024-08-30 10:00: docs: daily standup notes
+- 2024-08-31 14:31: docs: add learning notes
