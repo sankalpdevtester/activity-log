@@ -1014,3 +1014,4 @@
 - 2024-09-08 18:37: chore: sync notes
 - 2024-09-09 14:13: chore: log today's work
 - 2024-09-09 12:32: chore: log today's work
+- 2024-09-10 19:01: docs: add learning notes
