@@ -1076,3 +1076,4 @@
 - 2024-09-24 15:41: chore: update activity log
 - 2024-09-24 19:53: docs: progress update
 - 2024-09-24 23:56: docs: update progress tracker
+- 2024-09-25 11:23: docs: add learning notes
