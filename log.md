@@ -1174,3 +1174,4 @@
 - 2024-10-20 20:13: chore: activity update
 - 2024-10-20 22:00: chore: log today's work
 - 2024-10-20 18:33: chore: update activity log
+- 2024-10-20 16:11: docs: add learning notes
