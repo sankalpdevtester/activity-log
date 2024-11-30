@@ -1328,3 +1328,4 @@
 - 2024-11-29 18:59: docs: update progress tracker
 - 2024-11-29 15:23: docs: update progress tracker
 - 2024-11-30 18:58: chore: sync notes
+- 2024-11-30 15:25: docs: add learning notes
