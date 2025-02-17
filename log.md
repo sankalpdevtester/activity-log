@@ -1656,3 +1656,4 @@
 - 2025-02-16 16:57: docs: progress update
 - 2025-02-16 12:02: docs: progress update
 - 2025-02-17 09:10: chore: log today's work
+- 2025-02-17 17:51: docs: add learning notes
