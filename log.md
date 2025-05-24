@@ -2034,3 +2034,4 @@
 - 2025-05-24 10:22: chore: update activity log
 - 2025-05-24 13:17: chore: activity update
 - 2025-05-24 21:08: chore: activity update
+- 2025-05-24 14:30: docs: add learning notes
