@@ -2125,3 +2125,4 @@
 - 2025-06-17 14:48: docs: progress update
 - 2025-06-17 13:24: docs: progress update
 - 2025-06-17 11:45: chore: daily checkpoint
+- 2025-06-17 19:54: docs: add learning notes
