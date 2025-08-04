@@ -2323,3 +2323,4 @@
 - 2025-08-03 21:07: docs: update progress tracker
 - 2025-08-03 10:32: chore: sync notes
 - 2025-08-03 16:39: chore: daily checkpoint
+- 2025-08-04 23:16: docs: add learning notes
