@@ -2817,3 +2817,4 @@
 - 2025-11-30 17:45: chore: log today's work
 - 2025-11-30 19:18: docs: update progress tracker
 - 2025-11-30 09:08: docs: progress update
+- 2025-12-01 18:50: docs: daily standup notes
