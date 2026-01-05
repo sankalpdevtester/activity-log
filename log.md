@@ -2948,3 +2948,4 @@
 - 2026-01-04 19:37: chore: update activity log
 - 2026-01-04 17:49: docs: daily standup notes
 - 2026-01-05 09:48: chore: log today's work
+- 2026-01-05 19:24: docs: add learning notes
