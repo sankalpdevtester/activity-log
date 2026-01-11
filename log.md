@@ -2976,3 +2976,4 @@
 - 2026-01-11 23:32: docs: daily progress note
 - 2026-01-11 22:24: docs: daily progress note
 - 2026-01-11 15:01: chore: sync notes
+- 2026-01-11 13:33: docs: add learning notes
