@@ -3034,3 +3034,4 @@
 - 2026-01-28 14:56: chore: log today's work
 - 2026-01-28 12:56: chore: log today's work
 - 2026-01-28 22:41: docs: update progress tracker
+- 2026-01-28 10:38: docs: add learning notes
