@@ -3102,3 +3102,4 @@
 - 2026-02-14 14:15: chore: sync notes
 - 2026-02-14 22:48: chore: sync notes
 - 2026-02-14 21:53: docs: update progress tracker
+- 2026-02-14 20:17: docs: add learning notes
