@@ -3146,3 +3146,4 @@
 - 2026-02-23 19:13: docs: update progress tracker
 - 2026-02-24 17:04: chore: daily checkpoint
 - 2026-02-24 12:44: docs: progress update
+- 2026-02-24 18:14: docs: add learning notes
