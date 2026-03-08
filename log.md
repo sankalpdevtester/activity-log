@@ -3195,3 +3195,4 @@
 - 2026-03-07 09:21: chore: sync notes
 - 2026-03-07 20:56: chore: update activity log
 - 2026-03-07 16:46: chore: update activity log
+- 2026-03-08 20:27: docs: add learning notes
