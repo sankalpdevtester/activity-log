@@ -3365,3 +3365,4 @@
 - 2026-04-17 23:15: chore: log today's work
 - 2026-04-17 15:51: chore: daily checkpoint
 - 2026-04-18 23:17: docs: update progress tracker
+- 2026-04-18 19:30: docs: add learning notes
