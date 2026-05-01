@@ -3413,3 +3413,4 @@
 - 2026-04-29 23:51: chore: update activity log
 - 2026-04-30 11:56: docs: update progress tracker
 - 2026-04-30 20:28: chore: log today's work
+- 2026-05-01 18:08: docs: add learning notes
