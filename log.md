@@ -3500,3 +3500,4 @@
 - 2026-05-26 19:19: chore: log today's work
 - 2026-05-26 22:52: docs: daily standup notes
 - 2026-05-26 17:11: chore: sync notes
+- 2026-05-26 11:47: docs: add learning notes
